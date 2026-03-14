@@ -1,0 +1,22 @@
+Readme of Trader Sentiment Analysis
+ 
+Overview
+This project studies the relationship between Bitcoin market sentiment (Fear and Greed) and trader performance.
+The goal is to understand how market mood affects trading activity, profit, loss, and risk-taking behaviour.
+Objective
+•	 Analyse trader profit and loss during Fear and Greed market conditions
+•	Study trading behaviour like buy/sell decisions, leverage usage, and trade frequency
+•	 Find useful insights that can help in making better trading strategies
+Dataset 
+ Bitcoin Market Sentiment Dataset
+•	Columns: Date, Classification (Fear / Greed)
+ Historical Trader Dataset
+•	Columns: Account, Symbol, Execution Price, Trade Size, Side, Leverage, ClosedPnL, Time
+Tools
+•	  Python
+•	  Pandas
+•	  Matplotlib
+•	  Google Colab
+Conclusion
+Market sentiment has a strong impact on trader behaviour and performance.
+Understanding these patterns can help traders manage risk and improve trading decisions.
